@@ -1,5 +1,4 @@
-require 'minitest/autorun'
-require 'minitest/spec'
+require 'spec_helper'
 require 'multiples_3_and_5.rb'
 
 describe 'MultipleFinder' do
